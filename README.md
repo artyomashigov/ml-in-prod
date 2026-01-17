@@ -1,6 +1,6 @@
 # ML in Prodcution Project
 
-## Iris Species Prediction App
+## Iris Species Prediction App  🌸
 
 This project demonstrates a simple **machine learning model deployed to production using Streamlit**.
 
@@ -8,7 +8,7 @@ The application predicts the **species of an Iris flower** based on its numerica
 
 ---
 
-## What was done
+## 🧠 What was done 
 
 - Trained a Random Forest model on the classic Iris dataset using scikit-learn  
 - Saved the trained model using `joblib`  
@@ -18,7 +18,7 @@ The application predicts the **species of an Iris flower** based on its numerica
 
 ---
 
-## Project structure
+## 📁 Project structure
 
 - `train_dump_joblib.py` – trains the model and saves it as a `.joblib` file  
 - `random_forest_iris_model.joblib` – trained ML model  
@@ -29,7 +29,7 @@ The application predicts the **species of an Iris flower** based on its numerica
 
 ---
 
-## How the app works
+## ⚙️ How the app works
 
 1. User uploads a CSV file containing Iris feature values  
 2. The saved Random Forest model is loaded  
@@ -38,7 +38,7 @@ The application predicts the **species of an Iris flower** based on its numerica
 
 ---
 
-## Live application
+## 🌍 Live application
 
 The app is publicly available here:
 
@@ -46,7 +46,7 @@ The app is publicly available here:
 
 ---
 
-## Tech stack
+## 🛠 Tech stack
 
 - Python  
 - scikit-learn  
@@ -56,7 +56,7 @@ The app is publicly available here:
 
 ---
 
-## Notes
+## 📝 Notes
 
 This project focuses on **basic ML production concepts**:
 - model persistence  
