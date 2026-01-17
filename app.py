@@ -10,7 +10,7 @@ with st.sidebar:
     with st.expander("Data Format Example"):
         st.markdown("- encoding: utf-8")
         st.markdown("- separator: comma")
-        st.markdown("- decimal: .")
+        st.markdown("- delimiter: .")
         st.markdown("- first row: header")
     st.divider()
     st.caption("<p style='text-align:center'>Developed by Artyom Ashigov</p>", unsafe_allow_html=True)
