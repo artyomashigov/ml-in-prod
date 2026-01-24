@@ -88,8 +88,7 @@ with st.sidebar:
     )
 
     st.divider()
-    st.caption("<p style='text-align:center'>Developed by Artyom Ashigov</p>", unsafe_allow_html=True)
-
+    st.caption("<p style='text-align:center'>Developed by <a href='https://github.com/artyomashigov' target='_blank'>Artyom Ashigov</a></p>", unsafe_allow_html=True)
 
 # main page
 st.title("🌸 Iris Species Predictor")
