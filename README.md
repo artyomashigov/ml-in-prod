@@ -64,3 +64,4 @@ This project focuses on **basic ML production concepts**:
 - simple UI for non-technical users  
 
 It is intended as a learning and demonstration project.
+Please note that the app will become inactive after 12 to 24 hours of inactivity due to using the community version.
