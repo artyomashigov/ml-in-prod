@@ -1,4 +1,4 @@
 pandas
-streamlit
+streamlit>=1.30
 scikit-learn >= 1.4
 joblib
